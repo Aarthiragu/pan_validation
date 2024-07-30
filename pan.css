@@ -1,0 +1,12 @@
+body{
+    border-left: 5px solid gainsboro;
+}
+label {
+    margin-left:5px;
+}
+hr{
+    margin-left:5px;
+}
+button{
+    margin-left: 5px;
+}
